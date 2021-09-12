@@ -1,3 +1,6 @@
+
+====CRIANDO UM NOVO REPOSITÓRIO E SUBINDO ARQUIVOS PARA O REPOSITÓRIO
+
 1. Criar repositório site GitHub
 ---> No GitHub Terminal
 2. git init - dentro da pasta do projeto
@@ -6,3 +9,8 @@
 4. git add .
 5. git commit -m "Nome que faça sentido para os arquivos"
 6. git push origin master
+
+====ATUALIZANDO ARQUIVOS JÁ COLOCADOS NO REPOSITÓRIO GITHUB
+
+---> No GitHub Terminal
+1. git push de dentro da pasta local do projeto
