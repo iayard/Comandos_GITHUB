@@ -1,0 +1,8 @@
+1. Criar repositório site GitHub
+---> No GitHub Terminal
+2. git init - dentro da pasta do projeto
+3. git remote add origin https://github.com/iayard/CSS_Formulario_exemplo.git
+	*Caso seja exibido erro após este comando, dizendo que já existe ---> vá em opções de pastas, exibir arquivos ocultos e delete a pasta ".git". Execute novamente o comando.
+4. git add .
+5. git commit -m "Nome que faça sentido para os arquivos"
+6. git push origin master
